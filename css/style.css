@@ -15,61 +15,64 @@ h1{
     color: rgb(229, 59,116);
     margin-top: 30px;
     margin-bottom: 30px;
-    
 }
-
 
 p{
     margin-bottom: 70px;
 }
+
 .card{
     height: 100px;
     width: 300px;
     background-color: black;
 }
 
-
 .foto img{
     height: 100px;
     float: left;
 }
+
 .testo{
     width: 200px;
     float: left;
     padding-left: 10px;
     padding-top: 15px;
 }
+
 h2{
     color: white;
     font-size: 14px;
   
 }
+
 h5{
     color: white;
     font-size: 13px;
     margin-top: 8px;
     margin-bottom: 8px;
 }
+
 a{
     color: rgb(99, 181, 212);
     font-size: 13px;
     text-decoration: none;
     
 }
+
 .internoCard::before{
     display: table;
     clear: both;
 }
+
 .contenitore{
     float: left;
     padding-left: 40px;
     padding-bottom: 40px;
 }
+
 .corpo{
     width: 1300px;
     height: 900px;
     margin: 0 auto;
     padding-left: 130px;
-
-    
 }
