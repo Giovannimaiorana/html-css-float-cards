@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 header{
     width: 80%;
@@ -12,7 +13,6 @@ header{
 
 h1{
     color: rgb(229, 59,116);
-    font-family: Arial, Helvetica, sans-serif;
     margin-top: 30px;
 }
 
@@ -20,4 +20,36 @@ main{
     width: 80%;
     height: 100px;
     margin: auto;   
+}
+p{
+    margin-bottom: 70px;
+}
+.card{
+    height: 100px;
+    width: 300px;
+    background-color: black;
+}
+
+.internocard{
+    margin: 6px 0px 6px 6px;
+}
+img{
+    height: 100px;
+    float: left;
+}
+h2{
+    color: white;
+    font-size: 17px;
+ 
+}
+h5{
+    color: white;
+    font-size: 10px;
+   
+}
+
+a{
+    font-size: 15px;
+    text-align: center;
+    color: rgb(105, 187, 211);
 }
