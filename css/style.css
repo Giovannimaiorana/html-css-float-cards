@@ -28,28 +28,35 @@ p{
     height: 100px;
     width: 300px;
     background-color: black;
+    display: table;
+    clear: both;
 }
 
-.internocard{
-    margin: 6px 0px 6px 6px;
-}
-img{
+
+.foto img{
     height: 100px;
     float: left;
 }
+.testo{
+    width: 200px;
+    float: left;
+    padding-left: 10px;
+    padding-top: 15px;
+}
 h2{
     color: white;
-    font-size: 17px;
- 
+    font-size: 14px;
+  
 }
 h5{
     color: white;
-    font-size: 10px;
-   
+    font-size: 13px;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
-
 a{
-    font-size: 15px;
-    text-align: center;
-    color: rgb(105, 187, 211);
+    color: rgb(99, 181, 212);
+    font-size: 13px;
+    text-decoration: none;
+    
 }
