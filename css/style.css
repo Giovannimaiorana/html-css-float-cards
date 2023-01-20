@@ -88,5 +88,6 @@ a:visited{
 }
 .contenitore::before{
     display: table;
+    content: "";
     clear: both
 }
